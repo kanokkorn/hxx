@@ -1,3 +1,4 @@
+# GNU make and BSD make compatible
 BIN = hxx
 CFLAGS = -std=c99 -Wall -Wextra -pedantic -g
 LDLIBS =
