@@ -1,6 +1,4 @@
 #include "hxx.h"
-#include <bits/getopt_core.h>
-#include <stdio.h>
 
 /*
  * after done read user input, dump to temp file or database
